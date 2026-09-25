@@ -1,7 +1,7 @@
 # StockAndes - Backend REST Empresarial
 
 API REST empresarial para el control de inventarios del almacén central de StockAndes, desarrollada con Spring Boot 4, Java 21 y Oracle Database
-con la finalidad de aprobar el curso de Lenguaje de programacion profesor a cargo David Reyna Barreto , examen realizado por Andrew Serna Pereda
+con la finalidad de aprobar el curso de Lenguaje de programacion profesor a cargo David Reyna Barreto , examen realizado por Andrew Serna Pereda.
 ---
 
 ## 1. Estructura de Paquetes
