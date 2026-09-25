@@ -1,4 +1,10 @@
 package pe.edu.upeu.InventarioBackend.dto;
 
-public class ProductoDespachadoDTO {
+import java.math.BigDecimal;
+
+public interface ProductoDespachadoDTO {
+    String getCodigo();
+    String getProducto();
+    Long getUnidadesDespachadas();
+    BigDecimal getMontoTotal();
 }
